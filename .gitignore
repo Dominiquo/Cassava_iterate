@@ -5,6 +5,7 @@ __pycache__/
 *.DS_Store
 # C extensions
 *.so
+serialized_objects/*
 
 # Distribution / packaging
 .Python
